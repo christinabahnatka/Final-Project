@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="salon" type="boolean" value="true" -->
+<!-- TemplateParam name="about" type="boolean" value="true" -->
+<!-- TemplateParam name="contact" type="boolean" value="true" -->
+<link href="../final.css" rel="stylesheet" type="text/css">
+<!-- TemplateParam name="OptionalRegion1" type="boolean" value="true" -->
+<!-- TemplateParam name="Optionalsalon" type="boolean" value="true" -->
+</head>
+
+<body>
+<table>
+  <tr>
+    <td><p><a href="../index.html">Home</a> <a href="../about.html">About</a> <a href="../salon.html">Salon</a> <a href="../nails.html">Nails</a> <a href="../contact.html">Contact Us</a></p></td>
+  </tr>
+  <tr>
+    <td><img src="../newbanner.jpg" width="728" height="90" alt=""/></td>
+  </tr>
+</table>
+<table>
+<table>
+  <tr>
+    <td><!-- TemplateBeginEditable name="content" -->Content<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+</body>
+

@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="trimmerstitle" -->
+<title>Trimmers Hair Salon</title>
+
+<link href="../styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+<body>
+<div class="wrapper">
+  <table width="950">
+    <tr>
+      <td colspan="2"><p><a href="../index.html">Home</a> <a href="../about.html">About</a> <a href="../salon.html">Salon</a> <a href="../nails.html">Nails</a> <a href="../contact.html">Contact Us </a></p></td>
+    </tr>
+    <tr>
+<td colspan="2"><img src="../Untitled-2.jpg" width="949" height="360" alt=""/></td>
+    </tr>
+    <tr>
+      <td><!-- TemplateBeginIf cond="about" -->
+        <table width="48" height="30">
+          <tr>
+            <td width="40"><p><a href="../secondary-nav/about-owner.html">About the Owner</a></p></td>
+          </tr>
+        </table>
+      <!-- TemplateEndIf --><!-- TemplateBeginIf cond="salon" -->
+      <table>
+        <tr>
+          <td><a href="../secondary-nav/style.html">Style/ Cut</a></td>
+        </tr>
+        <tr>
+          <td><a href="../secondary-nav/color.html">Color</a></td>
+        </tr>
+        <tr>
+          <td><a href="../secondary-nav/special-occasion.html">Special Occasion</a></td>
+        </tr>
+      </table>
+      <!-- TemplateEndIf --><!-- TemplateBeginIf cond="nails" -->
+      <table width="21">
+        <tr>
+          <td><a href="../secondary-nav/services.html">Services</a></td>
+        </tr>
+      </table>
+      <!-- TemplateEndIf --><!-- TemplateBeginIf cond="contact" -->
+      <table>
+        <tr>
+          <td><a href="../secondary-nav/directions.html">Directions</a></td>
+        </tr>
+        <tr>
+          <td><a href="../secondary-nav/special-occasion.html">Special Inquires</a></td>
+        </tr>
+      </table>
+      <!-- TemplateEndIf --></td>
+      <td>
+        <div class="doctor-who-content">
+          <!-- TemplateBeginEditable name="Content Area" -->
+          Content <!-- TemplateEndEditable -->
+        </div class="doctor-who-content"> 
+      </td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+
